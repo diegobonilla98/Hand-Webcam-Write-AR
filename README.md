@@ -10,4 +10,6 @@ Will be comming soon (hopefully Tuesday 2nd).
 ## Characters
 The following image contains all possible characters the network is learnt to distinguish and some ways you can write them. Also, try to replicate the shape as much as possible for better results.
 
+![](alphabet.png)
+
 

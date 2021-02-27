@@ -12,4 +12,13 @@ The following image contains all possible characters the network is learnt to di
 
 ![](alphabet.png)
 
+## Model
+The repostery includes all necessary files to train the NN. Probably overfits since there is not enough data, but life is pretty complicated. The included trained model has an accuracy +-78% which for me works fine.
 
+## Requirements
+- Python 3.7
+- Tensorflow 1.15
+- OpenCV
+- Mediapipe
+- Pyautogui
+- idk, just look at the imported libraries...

@@ -2,7 +2,7 @@
 Write using just one finger!
 
 I've used the mediapipe hand detection to train a Residual Neural Network to detect characters. Just lift your index finger to write in the air and see how it magically transforms into a character.
-The project also implements a [grammar correction pipeline](https://github.com/rcabg/Spanish-Spelling-Corrector) to autocorrect misspelled although it's only available in Spanish. 
+The project also implements a [grammar correction pipeline](https://github.com/rcabg/Spanish-Spelling-Corrector) to autocorrect misspelled (although it's only available in Spanish, for english check out [this library](https://pypi.org/project/pyspellchecker/)). 
 
 ## Demo
 Will be comming soon (hopefully Tuesday 2nd).

@@ -22,3 +22,6 @@ The repostery includes all necessary files to train the NN. Probably overfits si
 - Mediapipe
 - Pyautogui
 - idk, just look at the imported libraries...
+
+## Disclaimer
+This was a cool idea made entirely in 1 day for learning purposes only. This is not a product of any kind and doen't have to work 100% of the time. Anyone can get the code and modify it **and only if they want, mention my name** but not required to do it. Cheers. 
